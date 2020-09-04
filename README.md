@@ -1,4 +1,4 @@
-Data Science
+Housing Prices Competition
 ==============================
 
 Kaggle competition - predice housing prices for residential homes in Ames, Iowa
