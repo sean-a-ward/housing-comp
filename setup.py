@@ -7,4 +7,5 @@ setup(
     description='Kaggle competition - predict housing prices for residential homes in Ames, Iowa',
     author='Sean Ward',
     license='MIT',
+    install_requires=['python-dotenv>=0.14']
 )
